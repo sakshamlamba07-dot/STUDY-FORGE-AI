@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="focus_shield_description">Blocks Instagram Reels only while a StudyForge focus session is running. It reads Instagram screen structure to detect Reels and never collects or sends any data.</string>
+</resources>

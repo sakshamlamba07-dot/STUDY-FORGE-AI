@@ -1,0 +1,9 @@
+{
+  "appId": "com.studyforge.app",
+  "appName": "StudyForge",
+  "webDir": "www",
+  "server": {
+    "url": "https://studyforge-pi-inky.vercel.app",
+    "androidScheme": "https"
+  }
+}
