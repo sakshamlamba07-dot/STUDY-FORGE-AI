@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <accessibility-service xmlns:android="http://schemas.android.com/apk/res/android"
-    android:accessibilityEventTypes="typeWindowStateChanged|typeWindowContentChanged"
+    android:accessibilityEventTypes="typeWindowStateChanged"
     android:accessibilityFeedbackType="feedbackGeneric"
-    android:accessibilityFlags="flagReportViewIds|flagRetrieveInteractiveWindows"
-    android:canRetrieveWindowContent="true"
-    android:notificationTimeout="100"
-    android:packageNames="com.instagram.android"
+    android:canRetrieveWindowContent="false"
+    android:notificationTimeout="50"
+    android:packageNames="com.instagram.android,com.instagram.lite,com.google.android.youtube"
     android:description="@string/focus_shield_description" />
